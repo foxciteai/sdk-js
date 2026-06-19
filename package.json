@@ -1,0 +1,26 @@
+{
+  "name": "@foxcite/sdk",
+  "version": "1.0.0",
+  "description": "Official TypeScript SDK for Foxcite AVS (AI Visibility Score) and AEO monitoring platform",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "author": "Foxcite",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/foxciteai"
+  },
+  "keywords": ["foxcite", "seo", "aeo", "sdk"],
+  "scripts": {
+    "build": "tsc",
+    "test": "node --test test/client.test.js",
+    "prepublishOnly": "npm run build"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
