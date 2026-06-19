@@ -3,7 +3,7 @@
 [![npm version](https://badge.fury.io/js/@foxcite%2Fsdk.svg)](https://badge.fury.io/js/@foxcite%2Fsdk)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-The official TypeScript client library for the [Foxcite](https://foxcite.com) API. Foxcite is an Answer Engine Optimization (AEO) and AI visibility monitoring platform that helps track your brand's presence across ChatGPT, Claude, Gemini, Grok, and Perplexity.
+The official TypeScript client library for the [Foxcite](https://foxcite.com) API. Foxcite is an [ai search visibility tracker](https://foxcite.com) and AEO monitoring platform that helps track your brand's presence across ChatGPT, Claude, Gemini, Grok, and Perplexity.
 
 ## Features
 - **TypeScript First:** 100% strongly typed interfaces and return types.
